@@ -7,7 +7,7 @@ This project provisions a lightweight market data simulation stack that publishe
 - macOS with Docker Desktop installed and running
 - Python 3.10+ with `python3` and `pip`
 - Java 8+ (required for Spark)
-- Apache Spark 3.5.x downloaded and available on `PATH` (for `spark-submit`)
+- Apache Spark 4.0.x downloaded and available on `PATH` (for `spark-submit`)
 - Optional: Redpanda CLI (`rpk`) for topic management
 
 ## Start Redpanda Broker
