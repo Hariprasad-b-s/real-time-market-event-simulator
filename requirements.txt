@@ -1,0 +1,5 @@
+confluent-kafka
+pyspark
+pandas
+numpy
+pyyaml

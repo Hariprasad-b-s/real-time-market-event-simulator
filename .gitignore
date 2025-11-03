@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Spark checkpoints and temporary output
+checkpoint/
+spark-warehouse/
+*.crc
